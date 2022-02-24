@@ -14,7 +14,18 @@ function initstate() {
             posY: startY,
             speed: 10
         },
-        keys: {}
+        bugStats: {
+
+            width: 50,
+            height: 50
+        },
+        keys: {
+
+            KeyA: false,
+            KeyS: false,
+            KeyD: false,
+            KeyW: false
+        }
     }
 
     return state;

@@ -29,7 +29,7 @@ body {
 .game-screen {
     width: 100%;
     height: 100%;
-    background-color: rgb(255, 80, 80);
+    background-color: blue;
 }
 
 .hidden {

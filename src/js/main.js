@@ -6,7 +6,8 @@ const avalableKeys = [
     'KeyA',
     'KeyS',
     'KeyD',
-    'KeyW'
+    'KeyW',
+    'Space'
 ];
 
 document.addEventListener('keydown', (e) => {

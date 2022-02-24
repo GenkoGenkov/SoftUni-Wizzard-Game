@@ -11,7 +11,8 @@ function initstate() {
             width: 82,
             height: 100,
             posX: startX,
-            posY: startY
+            posY: startY,
+            speed: 10
         },
         keys: {}
     }
